@@ -2,7 +2,7 @@
 These are just some silly scripts which I like to have on my command line when I'm doing quick and dirty 
 data analysis and can't be bothered to start R. They all receive the data by piping, typically downstream of awk, cut... 
 
-They all handle non-numeric data as NA.
+They all handle non-numeric data as NA.  Test
 
 # author
 [Daniel Zerbino](https://github.com/dzerbino/)
